@@ -1,0 +1,4 @@
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.Contracts\bin\Debug\ExceptionHandler.Contracts.dll
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.Contracts\bin\Debug\ExceptionHandler.Contracts.pdb
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.Contracts\obj\Debug\ExceptionHandler.Contracts.dll
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.Contracts\obj\Debug\ExceptionHandler.Contracts.pdb

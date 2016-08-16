@@ -1,0 +1,4 @@
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.Core\bin\Debug\ExceptionHandler.Core.dll
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.Core\bin\Debug\ExceptionHandler.Core.pdb
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.Core\obj\Debug\ExceptionHandler.Core.dll
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.Core\obj\Debug\ExceptionHandler.Core.pdb

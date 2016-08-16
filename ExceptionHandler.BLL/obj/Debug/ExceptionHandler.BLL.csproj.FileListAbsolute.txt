@@ -1,0 +1,9 @@
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.BLL\bin\Debug\ExceptionHandler.BLL.dll
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.BLL\bin\Debug\ExceptionHandler.BLL.pdb
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.BLL\bin\Debug\ExceptionHandler.Contracts.dll
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.BLL\bin\Debug\ExceptionHandler.Core.dll
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.BLL\bin\Debug\ExceptionHandler.Contracts.pdb
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.BLL\bin\Debug\ExceptionHandler.Core.pdb
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.BLL\obj\Debug\ExceptionHandler.BLL.csprojResolveAssemblyReference.cache
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.BLL\obj\Debug\ExceptionHandler.BLL.dll
+c:\users\filip\documents\visual studio 2015\Projects\ExceptionHandler\ExceptionHandler.BLL\obj\Debug\ExceptionHandler.BLL.pdb
